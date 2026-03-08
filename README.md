@@ -1,5 +1,7 @@
 # pytest Capstone — QA Automation Portfolio
 
+![Tests](https://github.com/ahmedhesham2020/pytest-capstone/actions/workflows/tests.yml/badge.svg)
+
 A clean pytest project demonstrating core QA automation skills: fixtures, parametrize, markers, coverage, and HTML reports.
 
 ## Skills Demonstrated
